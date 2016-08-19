@@ -1,0 +1,5 @@
+c:\users\swornim nepal\documents\visual studio 2012\Projects\BusinessObjectMVCCRUD\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+c:\users\swornim nepal\documents\visual studio 2012\Projects\BusinessObjectMVCCRUD\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+c:\users\swornim nepal\documents\visual studio 2012\Projects\BusinessObjectMVCCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+c:\users\swornim nepal\documents\visual studio 2012\Projects\BusinessObjectMVCCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+c:\users\swornim nepal\documents\visual studio 2012\Projects\BusinessObjectMVCCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
